@@ -1,4 +1,4 @@
-# Scripts de llenado:
+# scripts de llenado:
 
 - [scriptllenado4.1](https://github.com/joshuacorraless/Caso-1--Entregable-2/blob/main/scriptllenado4.1.sql)
 - [scriptllenado4.2](https://github.com/joshuacorraless/Caso-1--Entregable-2/blob/main/scriptllenado4.2.sql)
