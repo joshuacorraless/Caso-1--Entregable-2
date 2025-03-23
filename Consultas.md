@@ -31,3 +31,24 @@
 | Pedro Calderón        | pepe.mora@example.com          | México         | 6987.96            |
 | Rodolfo Fernández     | rodolfo.fernández@example.com  | Costa Rica     | 3368.68            |
 | Rodrigo Solano        | rodrigo.solano@example.com     | Costa Rica     | 4784.11            |
+
+# Tabla Script Consulta 4.2
+------------------------------------------------------------------
+| full_name           | email                        | days_left |
+|---------------------|------------------------------|-----------|
+| Alberto Silva       | alberto.silva@example.com     | 11        |
+| Andrés Rodriguez    | andrés.rodriguez@example.com  | 1         |
+| Armando Mendoza     | armando.mendoza@example.com   | 8         |
+| Carlos Sanchez      | carlos.sanchez@example.com    | 13        |
+| David Romero        | david.romero@example.com      | 2         |
+| Diego Fernandez     | diego.fernandez@example.com   | 7         |
+| Eduardo Vargas      | eduardo.vargas@example.com    | 6         |
+| Felipe Ramirez      | felipe.ramirez@example.com    | 6         |
+| Francisco Garcia    | francisco.garcia@example.com  | 1         |
+| Guillermo Morales   | guillermo.morales@example.com | 11        |
+| José Lopez          | josé.lopez@example.com        | 6         |
+| Juan Martinez       | juan.martinez@example.com     | 5         |
+| Manuel Diaz         | manuel.diaz@example.com       | 1         |
+| Martin Castro       | martin.castro@example.com     | 5         |
+| Oscar Rivera        | oscar.rivera@example.com      | 6         |
+| Pedro Gomez         | pedro.gomez@example.com       | 3         |
