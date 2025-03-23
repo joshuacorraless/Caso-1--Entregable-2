@@ -94,7 +94,7 @@
 
 
 ## Tabla Script Consulta 4.4 
-(la tabla se ordena por prioridad de ocurrencias en la fecha, y luego por fecha de más reciente a más antigua)
+(la tabla se ordena por cantidad de ocurrencias en la fecha, y luego por fecha de más reciente a más antigua)
 
 
 | Fecha       | Tipo Error                             | Cantidad Ocurrencias |
