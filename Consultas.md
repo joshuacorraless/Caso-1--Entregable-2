@@ -1,4 +1,4 @@
-# Scripts de Consulta
+# Scripts de Consulta:
 
 - [scriptconsulta4.1.sql](https://github.com/joshuacorraless/Caso-1--Entregable-2/blob/main/scriptconsulta4.1.sql)
 - [scriptconsulta4.2.sql](https://github.com/joshuacorraless/Caso-1--Entregable-2/blob/main/scriptconsulta4.2.sql)
