@@ -64,11 +64,11 @@
 | 48     | Andrés Rodriguez      | 28          |
 | 34     | Diego Fernandez       | 28          |
 | 43     | Sergio Ruiz           | 27          |
-| 54     | Alberto Silva         | 26          |
+| 58     | Antonio Silva         | 26          |
 | 53     | David Romero          | 26          |
 | 50     | José Lopez            | 26          |
-| 49     | Armando Mendoza       | 26          |
-| 42     | Pedro Gomez           | 25          |
+| 44     | Armando Mendoza       | 26          |
+| 49     | Pedro Gomez           | 25          |
 | 10     | David López           | 25          |
 | 12     | Gustavo Hernández     | 25          |
 | 28     | Andrés Rodríguez      | 25          |
@@ -80,14 +80,15 @@
 | 63     | Sergio Ruiz           | 12          |
 | 54     | Diego Fernandez       | 13          |
 | 30     | José Lopez            | 15          |
-| 27     | Carlos Aguilar        | 15          |
+| 7     | Carlos Aguilar        | 15          |
 | 8      | Luis Castro           | 16          |
-| 5      | Joshua Jiménez        | 17          |
+| 3      | Joshua Jiménez        | 17          |
 | 39     | Felipe Ramirez        | 17          |
-| 18     | Andrés Ramírez        | 17          |
+| 11     | Andrés Ramírez        | 17          |
 | 38     | Alberto Silva         | 17          |
+| 14     | Fernando Porras       | 17          |
 | 15     | Alberto Salazar       | 17          |
-| 11     | Rodolfo Fernández     | 17          |
+| 17     | Rodolfo Fernández     | 17          |
 | 6      | José Chaves           | 18          |
 | 13     | Adrián Rojas          | 18          |
 
