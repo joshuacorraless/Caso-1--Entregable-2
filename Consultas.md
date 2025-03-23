@@ -94,30 +94,44 @@
 
 ## Tabla Script Consulta 4.4 
 (la tabla se ordena por prioridad de ocurrencias en la fecha, y luego por fecha de más reciente a más antigua)
-| Fecha      | tipo Error                               | Ocurrencias |
-|------------|------------------------------------------|----------|
-| 2025-02-21 | Alucinaciones de la IA                   | 5        | 
-| 2023-10-23 | Problemas con acentos o dialectos        | 4        | 
-| 2023-10-21 | Falla en reconocer nombres de proveedores | 4        | 
-| 2023-11-18 | Ruido ambiental                          | 4        | 
-| 2023-11-13 | Confusión de comandos de voz             | 4        | 
-| 2023-11-13 | Errores en fechas de pagos               | 3        | 
-| 2023-10-30 | Problemas con acentos o dialectos        | 3        | 
-| 2023-10-23 | Confusión de comandos de voz             | 3        | 
-| 2025-03-16 | Malinterpretación de montos             | 3        | 
-| 2025-03-16 | Confusión de comandos de voz             | 3        | 
-| 2025-03-16 | Falla en reconocer nombres de proveedores | 3        | 
-| 2025-03-16 | Errores en fechas de pagos               | 3        | 
-| 2025-03-16 | Procesamiento de moneda extranjera       | 3        | 
-| 2023-11-15 | Ruido ambiental                          | 3        | 
-| 2023-11-13 | Errores en identificación de cuentas    | 2        | 
-| 2025-03-16 | Malinterpretación de montos             | 2        | 
-| 2025-03-16 | Falta de contexto                        | 2        | 
-| 2025-03-16 | Errores en identificación de cuentas    | 2        | 
-| 2025-03-16 | Ruido ambiental                          | 2        | 
-| 2025-03-02 | Alucinaciones de la IA                   | 2        | 
-| 2025-03-02 | Malinterpretación de montos             | 2        | 
-| 2023-10-21 | Problemas con acentos o dialectos        | 2        | 
-| 2025-03-02 | Alucinaciones de la IA                   | 2        | 
+
+
+| Fecha       | Tipo Error                             | Cantidad Ocurrencias |
+|-------------|----------------------------------------|----------------------|
+| 2025-02-21  | Alucinaciones de la IA                 | 5                    |
+| 2023-10-23  | Problemas con acentos o dialectos      | 5                    |
+| 2025-02-21  | Falla en reconocer nombres de proveedores | 4                 |
+| 2023-11-18  | Ruido ambiental                        | 4                    |
+| 2023-11-18  | Confusión de comandos de voz           | 4                    |
+| 2023-11-15  | Confusión de comandos de voz           | 4                    |
+| 2023-11-13  | Errores en fechas de pagos             | 4                    |
+| 2023-11-13  | Problemas con acentos o dialectos      | 4                    |
+| 2023-10-30  | Confusión de comandos de voz           | 4                    |
+| 2023-10-23  | Confusión de comandos de voz           | 4                    |
+| 2023-10-23  | Malinterpretación de montos            | 4                    |
+| 2025-03-16  | Confusión de comandos de voz           | 3                    |
+| 2025-03-16  | Falla en reconocer nombres de proveedores | 3                 |
+| 2025-03-16  | Errores en fechas de pagos             | 3                    |
+| 2025-02-21  | Procesamiento de moneda extranjera     | 3                    |
+| 2025-02-21  | Problemas con acentos o dialectos      | 3                    |
+| 2025-02-07  | Ruido ambiental                        | 3                    |
+| 2023-11-18  | Errores en fechas de pagos             | 3                    |
+| 2023-11-15  | Ruido ambiental                        | 3                    |
+| 2023-11-13  | Alucinaciones de la IA                 | 3                    |
+| 2023-11-13  | Errores en identificación de cuentas   | 3                    |
+| 2023-11-13  | Confusión de comandos de voz           | 3                    |
+| 2023-10-30  | Problemas con acentos o dialectos      | 3                    |
+| 2023-10-30  | Falla en reconocer nombres de proveedores | 3                 |
+| 2023-10-10  | Errores en identificación de cuentas   | 3                    |
+| 2025-03-16  | Malinterpretación de montos            | 2                    |
+| 2025-03-16  | Falla de contexto                      | 2                    |
+| 2025-03-16  | Errores en identificación de cuentas   | 2                    |
+| 2025-03-16  | Ruido ambiental                        | 2                    |
+| 2025-03-02  | Malinterpretación de montos            | 2                    |
+| 2025-03-02  | Problemas con acentos o dialectos      | 2                    |
+| 2025-03-02  | Alucinaciones de la IA                 | 2                    |
+| 2025-03-02  | Errores en identificación de cuentas   | 2                    |
+| 2025-02-21  | Malinterpretación de montos            | 2                    |
+
 
 
