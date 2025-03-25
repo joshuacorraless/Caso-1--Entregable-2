@@ -19,5 +19,5 @@ aquí se encuentra el entregable 2, que consiste en link al script de creación 
 [scriptConsultas](https://github.com/joshuacorraless/Caso-1--Entregable-2/blob/main/Consultas.md)
 
 
-## Link al diseño de workbench:****
+## Link al diseño de workbench:
 [diseñoBDWorkBench](https://github.com/joshuacorraless/caso1-entrgable2/blob/main/disenioBDFinal.pdf)
